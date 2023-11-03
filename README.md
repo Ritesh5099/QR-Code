@@ -8,3 +8,5 @@ Your application simplifies the process of creating QR codes, making it convenie
 
 
 Links
+
+https://ritesh5099.github.io/QR-Code/
